@@ -1,8 +1,6 @@
 <h1 align="center">Hello there, I'm Barak Kaldess :)</h1>
 <h3 align="center">Tech geek, creative and motivated Full-Stack web developer.</h3>
 
-- 🎈 Check out my latest project, a fiverr mockup called [betterr.](https://betterr-app.onrender.com/?nav=home)
-
 - 🎯 Social personality, Independent and Self-motivated. **Creativity is a key ! 🔑**
 
 - 📫 You can reach me anytime at **ibarakkaldess@gmail.com**
