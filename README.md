@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Barak Kaldess :)</h1>
+<h1 align="center">Hello there :)</h1>
 <h3 align="center">Tech geek, creative and motivated Full-Stack web developer.</h3>
 
 - 🎯 Social personality, Independent and Self-motivated. **Creativity is a key ! 🔑**
