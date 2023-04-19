@@ -1,5 +1,5 @@
 <h1 align="center">Hello there :)</h1>
-<h3 align="center">Tech geek, creative and motivated Full-Stack web developer.</h3>
+<h3 align="center">Tech geek, adventurous and motivated Full-Stack web developer.</h3>
 
 - 🎯 **Creativity is a key ! 🔑**
 
