@@ -1,11 +1,11 @@
 <h1 align="center">Hello there :)</h1>
 <h3 align="center">Tech geek, creative and motivated Full-Stack web developer.</h3>
 
-- 🎯 Social personality, Independent and Self-motivated. **Creativity is a key ! 🔑**
+- 🎯 **Creativity is a key ! 🔑**
 
-- 📫 You can reach me anytime at **barakkaldess@hotmail.com**
+- 📫 You can reach me out anytime at **barakkaldess@hotmail.com**
 
-- 🎨 Fun facts: **I love every kind of music, Climbing and Improving my knowledge everyday.**
+- 🎨 Fun facts: **I love metal music, indoor climbing and improving my "everyday" personal knowledge.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
