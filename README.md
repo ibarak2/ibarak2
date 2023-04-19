@@ -3,7 +3,7 @@
 
 - 🎯 Social personality, Independent and Self-motivated. **Creativity is a key ! 🔑**
 
-- 📫 You can reach me anytime at **ibarakkaldess@gmail.com**
+- 📫 You can reach me anytime at **barakkaldess@hotmail.com**
 
 - 🎨 Fun facts: **I love every kind of music, Climbing and Improving my knowledge everyday.**
 
