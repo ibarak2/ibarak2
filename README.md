@@ -1,12 +1,13 @@
 <h1 align="center">Hello there :)</h1>
-<h3 align="center">Tech geek, adventurous and motivated Full-Stack web developer.</h3>
+<h3 align="center">I’m a Web Applications Developer specializing in building modern, scalable products with Next.js. I’m passionate about creating smooth digital experiences and constantly learning new technologies.
 
-- 🎯 **Creativity is a key ! 🔑**
+Beyond coding, I love exploring:
 
-- 📫 You can reach me out anytime at **barakkaldess@hotmail.com**
+📚 Books and research on technology, science, psychology, and philosophy
 
-- 🎨 Fun facts: **I love metal music, indoor climbing and improving my "everyday" personal knowledge.**
+🎸 Making and playing music
 
+🌿 Anime, nature, and a positive mindset
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://linkedin.com/in/barak-kaldess" target="_blank">
